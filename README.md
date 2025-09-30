@@ -6,11 +6,24 @@
 ---
 
 ## 🔧 Technologies & Tools  
-- Python | Pandas | NumPy
-- SQL 
-- Jupyter Notebook  
-- Data Visualization (Matplotlib, Seaborn)  
-- Git & GitHub  
+**Programming & Analysis**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- R (basic data analysis & modeling)
+
+**Business Intelligence & Visualization**
+- Power BI
+- Tableau
+- Data storytelling & dashboards
+
+**Data Science & Machine Learning**
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling (basic)
+- Machine Learning (Scikit-learn)
+
+**Collaboration & Version Control**
+- Git & GitHub
+- Jupyter Notebook
 
 ---
 
