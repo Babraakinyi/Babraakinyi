@@ -1,7 +1,8 @@
 # Hi, I’m Babra 👋🏽  
-💡 Sports Intelligence Analyst & Data Scientist  
-📊 Passionate about sports, health, and wellness analytics  
-🐍 Skilled in Python, Pandas, NumPy, Data Visualization, and EDA  
+💡 Data Scientist & Data Analyst  
+📊 Passionate about turning data into actionable insights across business, wellness, and performance domains  
+🐍 Skilled in Python, SQL, Pandas, Power BI, and Machine Learning  
+  
 
 ---
 
@@ -31,12 +32,12 @@
 - **Uber Trends Analytics (2024)**  
   Exploratory Data Analysis on Uber ride dataset: demand trends, customer ratings, cancellations, and revenue insights.  
 
-- **Sports Data Tracking (Ongoing)**  
-  Analyzing sports and fitness performance datasets to uncover training patterns and wellness insights.  
+- **Crossfit Athletes Deadlift Prediction**  
+  Analyzing & Feature Engineering sports and fitness performance dataset in crossfit athletes to uncover, predict: training patterns and wellness insights.  
 
 ---
 
-🚀 Always open to collaborations in **sports analytics, health-tech, and data-driven research**.  
+🚀  I’m open to opportunities in data analytics, business intelligence, sports performance, or wellness tech, where I can keep bridging data with real-world impact.
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/babra-akinyi)  
 
 
