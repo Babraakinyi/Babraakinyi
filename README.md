@@ -33,7 +33,11 @@
   Exploratory Data Analysis on Uber ride dataset: demand trends, customer ratings, cancellations, and revenue insights.  
 
 - **Crossfit Athletes Deadlift Prediction**  
-  Analyzing & Feature Engineering sports and fitness performance dataset in crossfit athletes to uncover, predict: training patterns and wellness insights.  
+  Analyzing & Feature Engineering sports and fitness performance dataset in crossfit athletes to uncover, predict: training patterns and wellness insights.
+
+- **Apparel-Sales-Forecasting**
+  A data analytics and forecasting project using Python and Jupyter Notebook. Explores apparel sales, pricing, brand performance, and customer behavior to uncover trends and
+  prepare data for future predictive modeling.    
 
 ---
 
