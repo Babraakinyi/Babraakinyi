@@ -7,24 +7,13 @@
 ---
 
 ## 🔧 Technologies & Tools  
-**Programming & Analysis**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- R (basic data analysis & modeling)
+**Programming & Analysis** : Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R (basic data analysis & modeling)
 
-**Business Intelligence & Visualization**
-- Power BI
-- Tableau
-- Data storytelling & dashboards
+**Business Intelligence & Visualization** : Power BI, Tableau, Data storytelling & dashboards
 
-**Data Science & Machine Learning**
-- Exploratory Data Analysis (EDA)
-- Predictive Modeling (basic)
-- Machine Learning (Scikit-learn)
+**Data Science & Machine Learning** : Exploratory Data Analysis (EDA), Predictive Modeling (basic), Machine Learning (Scikit-learn)
 
-**Collaboration & Version Control**
-- Git & GitHub
-- Jupyter Notebook
+**Collaboration & Version Control**: Git & GitHub, Jupyter Notebook
 
 ---
 
