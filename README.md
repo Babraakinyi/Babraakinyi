@@ -1,9 +1,7 @@
 # Hi, I’m Babra 👋🏽  
-💡 Data Scientist & Data Analyst  
-📊 Passionate about turning data into actionable insights across business, wellness, and performance domains  
-🐍 Skilled in Python, SQL, Pandas, Power BI, and Machine Learning  
+A Data Scientist and Analyst passionate about transforming data into business intelligence that drives strategy, performance, and operational efficiency.
+Skilled in Python, SQL, Power BI, and Tableau, I specialize in exploring patterns, forecasting trends, and optimizing processes across business, supply chain, and retail environments. My work focuses on bridging analytics with decision-making: helping organizations uncover what’s working, what’s not, and where to grow next.
   
-
 ---
 
 ## 🔧 Technologies & Tools  
