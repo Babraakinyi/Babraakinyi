@@ -28,7 +28,7 @@ Skilled in Python, SQL, Power BI, and Tableau, I specialize in exploring pattern
 
 ---
 
-🚀  I’m open to opportunities in data analytics, business intelligence, sports performance, or wellness tech, where I can keep bridging data with real-world impact.
+🚀 I’m open to roles in data analytics, operations research, business intelligence, or data science: where I can apply analytical thinking to real-world challenges and measurable outcomes.
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/babra-akinyi)  
 
 
